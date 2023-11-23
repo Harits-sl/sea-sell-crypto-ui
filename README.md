@@ -1,16 +1,24 @@
-# sea_sell_crypto
+# Persyaratan Sistem
+- flutter SDK, versi yang digunakan pada projek ini versi 3.10.3
+- android studio
+- Visual Studio Code
 
-A new Flutter project.
+# instalasi
+buka projek pada IDE yang digunakan,lakukan perintah 'flutter pub get' pada terminal
 
-## Getting Started
+```sh
+cd sea-sell-crypto-ui
+flutter pub get
+```
 
-This project is a starting point for a Flutter application.
+# Overview
+<img src="https://github.com/Harits-sl/sea-sell-crypto-ui/blob/master/assets/ss/ss.png" width="200" />
 
-A few resources to get you started if this is your first Flutter project:
+# Package
+package yang digunakan untuk projek ini
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Package | Link |
+| ------ | ------ |
+| cupertino_icons: ^1.0.2 | https://pub.dev/packages/cupertino_icons |
+| carousel_slider: ^4.0.0 | https://pub.dev/packages/carousel_slider |
+| google_fonts: ^6.1.0 | https://pub.dev/packages/google_fonts |
